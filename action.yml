@@ -1,4 +1,4 @@
-name: "Check for Changed Files"
+name: "Check for Changed Files V2"
 author: "Map Your Show"
 description: "Require changed files in a PR"
 branding:
