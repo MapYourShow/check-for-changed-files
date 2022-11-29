@@ -63,7 +63,7 @@ jobs:
     steps:
       ...
       - name: "Check for news entry"
-        uses: brettcannon/check-for-changed-files@v1
+        uses: MapYourShow/check-for-changed-files@v1
         with:
           file-pattern: "changelog.d/*.rst"
           skip-label: "skip news"

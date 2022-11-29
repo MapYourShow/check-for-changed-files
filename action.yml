@@ -1,5 +1,5 @@
 name: "Check for Changed Files"
-author: "Brett Cannon"
+author: "Map Your Show"
 description: "Require changed files in a PR"
 branding:
   icon: "check-circle"

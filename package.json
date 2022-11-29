@@ -15,14 +15,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/brettcannon/check-for-changed-files.git"
+    "url": "git+https://github.com/MapYourShow/check-for-changed-files.git"
   },
-  "author": "Brett Cannon",
+  "author": "MapYourShow",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/brettcannon/check-for-changed-files/issues"
+    "url": "https://github.com/MapYourShow/check-for-changed-files/issues"
   },
-  "homepage": "https://github.com/brettcannon/check-for-changed-files#readme",
+  "homepage": "https://github.com/MapYourShow/check-for-changed-files#readme",
   "devDependencies": {
     "@tsconfig/node12": "^1.0.7",
     "@types/jest": "^26.0.22",
